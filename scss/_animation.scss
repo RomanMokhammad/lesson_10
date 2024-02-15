@@ -1,0 +1,79 @@
+.axon{
+    transition: 0.5s;
+}
+
+.axon:hover{
+    translate: 0 -20px;
+
+}
+
+.jetstar{
+    transition: 0.5s;
+}
+
+.jetstar:hover{
+    translate: 0 -20px;
+}
+.hero6__div1__expidia{
+    transition: 0.5s;
+}
+
+.hero6__div1__expidia:hover{
+    translate: 0 -20px;
+}
+.qantas{
+    transition: 0.5s;
+}
+
+.qantas:hover{
+    translate: 0 -20px;
+}
+.alitalia{
+    transition: 0.5s;
+}
+
+.alitalia:hover{
+    translate: 0 -20px;
+}
+
+
+.photo2 {
+   
+    transition: specularity 0.5s ;
+    transform-origin: top ;
+    
+}
+
+.photo2:hover{
+    scale: -2 2;
+}
+
+.photo3 {
+   
+    transition: specularity 0.5s ;
+    transform-origin: top ;
+    
+}
+
+.photo3:hover{
+    scale: -2 2;
+}
+
+.photo4 {
+   
+    transition: specularity 0.5s ;
+    transform-origin: top ;
+    
+}
+
+.photo4:hover{
+    scale:-2 2;
+}
+
+.buttton_animation{
+    transition: skew 0.5s ;
+}
+
+.buttton_animation:hover{
+    transform: skew(20deg , 20deg);
+}
